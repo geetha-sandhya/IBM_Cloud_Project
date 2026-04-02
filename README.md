@@ -40,3 +40,5 @@ Developed an intelligent AI assistant that:
 - Improved problem-solving and analytical thinking  
 
 ---
+## 👩‍💻Author
+V.Geetha Sandhya.
