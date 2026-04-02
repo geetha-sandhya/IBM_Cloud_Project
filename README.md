@@ -41,4 +41,4 @@ Developed an intelligent AI assistant that:
 
 ---
 ## 👩‍💻Author
-V.Geetha Sandhya.
+V.Geetha Sandhya B.Tech – Artificial Intelligence and Machine Learning
