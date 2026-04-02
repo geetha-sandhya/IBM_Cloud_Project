@@ -32,7 +32,13 @@ Developed an intelligent AI assistant that:
 ## 📈 Impact
 - Helps students choose better learning paths  
 - Improves accessibility to personalized education  
-- Demonstrates real-world application of AI in education  
+- Demonstrates real-world application of AI in education
+## 📸 Screenshots
+
+![Output](screenshots/output_interface.png)
+![AI Response](screenshots/ai_recommendation.png)
+![Architecture](screenshots/system_architecture.png)
+![Deployment](screenshots/deployment_process.png)
 
 ## 📚 Learnings
 - Gained hands-on experience with IBM Watsonx and AI models  
